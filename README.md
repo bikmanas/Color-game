@@ -2,7 +2,7 @@
 
 _Short game created in order to spend some time trying to figure out the correct color_
 
-Site published at https://bikmanas.github.io/color-game/
+Site published at https://bikmanas.github.io/Color-game/
 
 ## Project features
 - HTML
