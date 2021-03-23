@@ -1,3 +1,5 @@
+![LICENSE](https://img.shields.io/badge/license-legit-blue)
+![Status](https://img.shields.io/badge/status-on-green)
 # Color game  
 
 _Short game created in order to spend some time trying to figure out the correct color_
